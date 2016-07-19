@@ -1,0 +1,19 @@
+a.) Single - threaded
+ANSWER : it is a process that is executed with one command at a time in your (CPU) Central Processing Unit.
+
+b.) Event driven architecture 
+ANSWER: it is a software architecture pattern which promotes the production, detection, consumption of an event, and reaction to events and also these can be applied f
+in designing and implementing your system and application. 
+
+c.) What are the benefits of javascript module:
+ANSWERS: a.) To make your codes to be well organized.
+         b.) To make the programmer easier to find the errors or problems
+         c.) To make your codes clean.
+         d.) to save memory
+
+d.) Give two implementation of javascript module
+ANSWERS: 1.)module.export
+         2.)module bundling
+e.) Module Bundler
+ANSWER: These are modules with dependencies and generates static assets representing those modules.
+
